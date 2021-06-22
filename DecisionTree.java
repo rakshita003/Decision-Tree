@@ -224,7 +224,6 @@ public class DecisionTree {
 
 	public static void main(String[] args) throws Exception {
 	
-		//StudentInfo.display();
 
 		if (args == null || args.length == 0) {
 			System.out.println("Expected a file name as argument!");
