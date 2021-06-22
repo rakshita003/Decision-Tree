@@ -262,7 +262,7 @@ public class VirtualDataSet extends DataSet {
 		System.out.println();
 
 		ActualDataSet figure5Actual = new ActualDataSet(new CSVReader(
-				"/Users/mehrdad/Dropbox/ITI1121/2021/assignments/A2/a2_3000000_3000001/datasets/weather-nominal.csv"));
+				"Datasets/weather-nominal.csv"));
 
 		System.out.println(figure5Actual);
 
@@ -304,7 +304,7 @@ public class VirtualDataSet extends DataSet {
 		System.out.println();
 
 		ActualDataSet figure9Actual = new ActualDataSet(new CSVReader(
-				"/Users/mehrdad/Dropbox/ITI1121/2021/assignments/A2/a2_3000000_3000001/datasets/weather-numeric.csv"));
+				"Datasets/weather-numeric.csv"));
 
 		System.out.println(figure9Actual);
 
